@@ -65,9 +65,23 @@ dire désastreux
 looters	pillards
 caseload	nombre de cas, d'affaires
 a silver bullet	une solution miracle.
-to wound	blesser
-to shout	crier
-a throng	une foule
-a tie 	une cravate
-to fear stg	craindre qqch
-to duck	esquiver, plonger
+to wound	blesser (vb)
+to shout	crier (vb)
+a throng	une foule (n)
+a tie 	une cravate (n)
+to fear stg	craindre qqch (vb)
+to duck	esquiver	plonger (figuré, vb)
+headhache	maux de tête (n)
+to enact	promulger, décréter (une loi) (vb)
+cherfull	joyeux (adj)
+squeeze sth/sb into sth	faire entrer [qch] dans [qch] 
+daunting	intimidant (adj)
+thankless	ingrat (adj)
+to flee sth, sb	fuir qqch, qqn (vb)
+to gather sth, sb	rassembler, reunir (vb)
+in attendance	présent 
+it is waging	il est entrain de faire/ de mener 
+unyielding	inflexible/inébranlable (adj)
+solely	uniquement (adv)
+to grant	accorder (vb)
+to wobble	osciller (vb)
