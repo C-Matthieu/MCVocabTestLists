@@ -158,4 +158,4 @@ bv:win, pr:won, pp:won	gagner
 bv:wind, pr:wound, pp:wound	enrouler 
 bv:withdraw, pr:withdrew, pp:withdrawn	(se) retirer 
 bv:wring, pr:wrung, pp:wrung	tordre 
-bv:write, pr:wrote, pp:written	écrire 
+bv:write, pr:wrote, pp:written	écrire
