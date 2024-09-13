@@ -51,3 +51,5 @@ all the same	tout de même
 similary	similairement
 what if	et si
 suppose	supposer
+no further than	ne pas aller plus loin que
+above	au-dessus de
