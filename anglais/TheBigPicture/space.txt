@@ -41,7 +41,7 @@ spacemen/spacewomen	spationautes(H/F)
 space travellers	voyageurs de l'espace
 a space cadet	un rêveur ou un astronaute stagiaire
 to be out of touch with reality	perdre le contact avec la réalité
-to behave strangelyto be out of touchavoir un comportement étrange
+to behave strangely	avoir un comportement étrange
 a rocket	un fusée
 a retrorocket	un rétrofusée
 a telescope	un télescope
