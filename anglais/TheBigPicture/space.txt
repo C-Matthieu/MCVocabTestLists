@@ -20,7 +20,7 @@ the ESA (European Space Agency)	l'ESA (Agence spatiale européenne)
 the conquest of space	la conquête de l'espace
 the space age	l'ère spatiale
 the space race	la course dans l'espace
-a space flight	un vold dans l'espace
+a space flight	un vol dans l'espace
 astronautics	l'astronautique
 avionics	l'avionique
 airspace	l'espace aérien
