@@ -46,7 +46,7 @@ a rocket	un fusée
 a retrorocket	un rétrofusée
 a telescope	un télescope
 a probe	une sonde
-a spaceship/a rocket ship/spacecraft	un vaisseau spatial(V1/V2/V3)
+a spaceship/a rocket ship/a spacecraft	un vaisseau spatial(V1/V2/V3)
 fuel	du carburant
 a shuttle	une navette
 a space station	une station spatiale
@@ -73,7 +73,7 @@ an airlock	un sas
 a byword for	le synonyme de
 to grasp	saisir
 it is not rocket science	ce n'est pas sorcier (expression)
-colloqial	du langage familier
+colloquial	du langage familier
 It doesn't take a rocket scientist to understand that	Pas besoin d'être un génie pour comprendre que (expression)
 a missile	un missile
 a communications satellite	un satellite de télécommunications
