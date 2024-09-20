@@ -20,7 +20,7 @@ the ESA (European Space Agency)	l'ESA (Agence spatiale européenne)
 the conquest of space	la conquête de l'espace
 the space age	l'ère spatiale
 the space race	la course dans l'espace
-a space flight	un vold dans l'espace
+a space flight	un vol dans l'espace
 astronautics	l'astronautique
 avionics	l'avionique
 airspace	l'espace aérien
@@ -41,7 +41,7 @@ spacemen/spacewomen	spationautes(H/F)
 space travellers	voyageurs de l'espace
 a space cadet	un rêveur ou un astronaute stagiaire
 to be out of touch with reality	perdre le contact avec la réalité
-to behave strangelyto be out of touchavoir un comportement étrange
+to behave strangely	avoir un comportement étrange
 a rocket	un fusée
 a retrorocket	un rétrofusée
 a telescope	un télescope
@@ -54,6 +54,7 @@ a lander	un véhicule spatial
 a lunar rover	un véhicule lunaire
 ISS (International Space Station)	la Station spatiale internationale
 a facility	une installation
+It has been staffed since	Elle est habité depuis
 to lauch	lancer
 to blast off	être mis à feu
 a satellite laucher	un lanceur de satellites
@@ -65,7 +66,7 @@ a rocket engine	un propulseur de fusée, moteur-fusée
 to propel	propulser
 propellant	le combustible pour fusée, le propergol
 rocket fuel	le carburant pour fusée (kérosène)
-a lauch véhicule/a booster	une fusée de lancement (V1/V2)
+a lauch vehicule/a booster	une fusée de lancement (V1/V2)
 a space rocket/a booster rocket	une fusée interplanétaire (V1/V2)
 a multi-stage rocket	une fusée à étages
 an airlock	un sas
@@ -80,18 +81,19 @@ a weather satellite	un satellite météorologique
 a surveillance satellite	un satellite espion
 remote-controled	télécommandé
 humbling	humiliant
-liability	un handicap
+liability	un handicap, un frein
 involvement	intervention
 to be in orbit / go into orbit	être en orbite / se mettre en orbite
 to put a satellite in(to) orbit	mettre un satellite en orbite
 to land/to touch down	aterrir (V1/V2)
+to land on the moon	alunir (atterrir sur la lune)
 to splash down / splashdown	amerrir (atterrir en mer) / amerrissage
-hurtling	filer
+a tiny target hurtling	une cible minuscule filant à toute allure
 weightlessness/zero gravity 	l'apesanteur (V1/V2)
 microgravity	la micro-gravité
 space tourism	le tourisme dans l'espace
 a feat	un exploit
-space research/rocket research	la recherche spatiale (V1/V2)
+space research/rocket research	recherches aérospatiales (V1/V2)
 a space lab	un laboratoire spatial
 space science	la spatiologie
 a spin-off	une retombée
@@ -100,6 +102,7 @@ a flying saucer	un soucoupe volante
 an unidentified flying object (UFO)	un OVNI (V1 (accronyme))
 an alien/an alien being	un extraterrestre (V1/V2)
 a Martien	un martien
+Earthlings	les terriens
 to ask for/to promise the moon	demander / promettre la lune
 to shoot for the moon	viser très haut
 to be over the moon	être aux anges, se croire au paradis
