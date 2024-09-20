@@ -55,10 +55,10 @@ a lunar rover	un véhicule lunaire
 ISS (International Space Station)	la Station spatiale internationale
 a facility	une installation
 It has been staffed since	Elle est habité depuis
-to lauch	lancer
+to launch	lancer
 to blast off	être mis à feu
-a satellite laucher	un lanceur de satellites
-a lauch pad	une rampe de lancement, pas de tir
+a satellite launcher	un lanceur de satellites
+a launch pad	une rampe de lancement, pas de tir
 the countdown	le compte à rebours
 lift-off	l'envol
 an engine	un moteur
@@ -66,7 +66,7 @@ a rocket engine	un propulseur de fusée, moteur-fusée
 to propel	propulser
 propellant	le combustible pour fusée, le propergol
 rocket fuel	le carburant pour fusée (kérosène)
-a lauch vehicule/a booster	une fusée de lancement (V1/V2)
+a launch vehicule/a booster	une fusée de lancement (V1/V2)
 a space rocket/a booster rocket	une fusée interplanétaire (V1/V2)
 a multi-stage rocket	une fusée à étages
 an airlock	un sas
