@@ -96,7 +96,7 @@ a feat	un exploit
 space research/rocket research	recherches aérospatiales (V1/V2)
 a space lab	un laboratoire spatial
 space science	la spatiologie
-a spin-off	une retombée
+a spin-off	une retombée, un produit dérivé
 satnav/global positioning system (GPS)	le GPS (V1, V2 (accronyme))
 a flying saucer	un soucoupe volante
 an unidentified flying object (UFO)	un OVNI (V1 (accronyme))
