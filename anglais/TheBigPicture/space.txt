@@ -15,8 +15,8 @@ an astronomer	un astronome
 a space buff	un fana de l'espace
 It was thrown together	créé à la va-vite
 impetus	élan
-NASA (National Aeronautics and Space Administration)	la NASA (Administration nationale de l'aéronautique et de l'espace)
-the ESA (European Space Agency)	l'ESA (Agence spatiale européenne)
+NASA (National Aeronautics and Space Administration)	la NASA (Administration nationale de l'aéronautique et de l'espace) (accronyme(V1))
+the ESA (European Space Agency)	l'ESA (Agence spatiale européenne) (accronyme(V1))
 the conquest of space	la conquête de l'espace
 the space age	l'ère spatiale
 the space race	la course dans l'espace
@@ -52,7 +52,7 @@ a shuttle	une navette
 a space station	une station spatiale
 a lander	un véhicule spatial
 a lunar rover	un véhicule lunaire
-ISS (International Space Station)	la Station spatiale internationale
+ISS (International Space Station)	la Station spatiale internationale (accronyme(V1))
 a facility	une installation
 It has been staffed since	Elle est habité depuis
 to launch	lancer

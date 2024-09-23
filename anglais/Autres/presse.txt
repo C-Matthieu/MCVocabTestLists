@@ -108,3 +108,6 @@ leafy	feuillu (adj)
 strain	effort, pression (n)
 falsehood	mensonge, malhonnêteté (n)
 to yell	hurler (vb)
+prominence	notoriété, importance
+to rack up	accumuler, récolter (v)
+to rig sth	truquer qqch (v)
