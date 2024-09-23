@@ -1,5 +1,5 @@
 at the turn of the 21st century	au tournant du 21ème siècle
-at the turn of the third millenium…	 au tournant du 3ème millénaire…
+at the turn of the third millenium...	 au tournant du 3ème millénaire…
 with the advent of globalisation	avec l’avènement de la mondialisation
 with the advent of the net-economy	avec l’avènement de l’économie numérique
 with the growing gap between rich and poor countries	avec l’accroissement du fossé entre les pays riches et les pays pauvres
@@ -7,7 +7,7 @@ with the tremendous progress of science	avec les progrès considérables de la s
 genetic engineering	manipulation génétique
 conventional wisdom has it that	on dit généralement que
 an issue/a matter/a common concern	un problème/un sujet/un souci commun
-the article was published/released in…	l’article a été publié/diffusé dans…
+the article was published/released in...	l’article a été publié/diffusé dans…
 a news report/a news article	article de presse neutre et objectif (V1/V2)
 a reporter/a journalist	un journaliste (V1/V2)
 a coverage/a report	un reportage (V1/V2)
