@@ -1,0 +1,81 @@
+puts as much emphasis	n'attache pas autant d'importance
+anthem	hymne
+to live up to	être fidèle à
+to boast	se vanter
+freedom of speech/free speech/freedom of expression	la liberté d'expression, de parole (V1/V2/V3)
+freedom of the press	la liberté de la presse
+a free press	une presse libre
+freedom of worship	la liberté de culte ou de religion
+an order	une ordonnance
+arbitrary power	le pouvoir arbitraire
+a lettre de cachet	une lettre de cachet
+to infringe (on) people's rights	empieter sur les droits des gens
+an infringement on sb's rights	une atteinte aux droits de qqn
+to encroach on basic liberties	empiéter sur les libertés fondamentales
+an encroachment of the state	un empiètement de l'état
+to restrict free speech	restreindre, limiter la liberté d'expression
+to erode individual freedoms	rogner sur les libertés individuellesh
+to detain a suspect without charge	détenir un suspect sans l'inculper
+to be held without charge	être détenu sans être inculpé
+to remand sb in custody	placer qqn en détention provisoire
+to jail sb / to imprison sb	emprisonner qqn (V1/V2)
+the right to vote	le droit de vote
+basic rights	les droits fondamentaux
+basic / individual freedoms	les libertés fondamentales / individuelles
+to be enshrined in the constitution	être garanti par la constitution
+civil liberties	les libertés civiques
+to censor	
+censorship	la censure
+intrusive	indiscret
+the government vindicated its scheme	le gouvernement a défendu son projet
+benefit fraud	fraude du système d'allocations
+surveillance	surveillance
+a surveillance society	une société surveillée
+a police state	un état policier
+the police force	la police, les forces de l'ordre
+to stop and search	contrôler et fouiller
+to arrest sb	arreter qqn
+privacy	la vie privée, l'intimité
+sb's private life	la vie privée de qqn
+to breach / to violate sb's privacy	violer la vie privée de qqn (V1/V2)
+a breach of privacy / an invasion of privacy / a privacy violation	une violation de la vie privée (V1/V2/V3)
+to intrude upon sb's privacy	porter atteinte à la vie privée de qqn
+the promotion of religious liberty	la défense de la liberté religieuse
+video surveillance	la vidéosurveillance
+closed circuit television (CCTV)	la télévision en circuit fermé (accronyme)
+to record	enregistrer
+to monitor sb's movements	surveiller les déplacements de qqn
+to keep tabs on sb / to keep an eye on sb	avoir qqn à l'oeil (V1/V2)
+to spy on sb / to snoop on sb	espionner qqn (V1/V2)
+to track sb	suivre à la trace qqn
+the bedrock of American democracy	la base de la démocratie américaine
+to monitor a border / sb's mail	surveiller une frontière / le courrier de qqn
+a bug	un micro caché
+to bug a room	placer des micros dans une pièce
+to (wire)tap sb's phone	mettre qqn sur écoute téléphonique
+phone tapping / wiretapping	les écoutes téléphoniques (V1/V2)
+to eavesdrop on sb's phone conversations	écouter les conversations téléphoniques de qqn
+to pry into sb's personal life	mettre son nez dans la vie persinnelle de qqn
+data	des données, des informations
+personal data/personal details	des informations personnelles
+sb's contact details	les coordonnées de qqn
+biometric data	des données biométriques
+sb's banking details	les informations bancaires de qqn
+a medical record / a school record 	un dossier médical / scolaire
+a criminal record	un casier judiciaire
+a telephone bill	un relevé de téléphone
+a bank statement	un relevé bancaire
+to collect / to gather data	rassembler / recueillir des informations
+to glean information	glaner des informations
+to record/ to store / to retain data	enregistrer / stocker / conserver des informations
+to retrieve data	rechercher et extraire des informations
+to put a suspect on file	ficher un suspect
+a database	une base de données
+a DNA database	une base de données ADN
+a DNA print / genetic print	une empreinte génétique (V1/V2)
+to be DNA-swabbed	subir un test ADN
+to speak out	dire ce que l'on pense
+innocuous	inoffensif
+to sound / to ring the alarm bell	tirer la sonnette d'alarme (V1/V2)
+to blow the whistle on sb	dénoncer qqn
+a whistleblower	un lanceur d'alerte
