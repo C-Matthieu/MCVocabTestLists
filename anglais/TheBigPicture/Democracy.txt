@@ -7,7 +7,7 @@ not least	en particulier
 without charge	sans être inculpé
 the rule of law	êtat de droit
 is above the law	au-dessus des lois
-arbitrary gorvernance	gouvernance arbitraire
+arbitrary governance	gouvernance arbitraire
 a dictator	un dictateur
 dictatorship	la dictature
 authoritarian	autoritaire
@@ -26,14 +26,14 @@ the Vichy/Pinochet regime	le régime de Vichy/de Pinochet
 a repressive regime	un régime répressif
 a political system	un régime politique
 to become more democratic	se démoctratiser
-to take/ seize power	prendre le pouvoir/ s'emparer du pouvoir
+to take/ to seize power	prendre le pouvoir/ s'emparer du pouvoir
 to come to power	arriver au pouvoir
 to come into office	arriver au pouvoir (démocratique)
 to be in power	être au pouvoir
-to remain/stay in power	rester au pouvoir (V1/V2)
+to remain/to stay in power	rester au pouvoir (V1/V2)
 to cling to power	s'accrocher au pouvoir
 good governance	la bonne gouvernance
-to misrule/ mismanage	mal administrer/ mal gérer
+to misrule/ to mismanage	mal administrer/ mal gérer
 misrule	mauvaise gestion
 mismanagement	mauvaise gestion
 to hold a leader to account	tenir un dirigeant pour responsable
@@ -46,7 +46,7 @@ to bribe sb	acheter, soudoyer qqn (V1)
 accountability	la responsabilité
 to be accountable to sb	être responsable devant qqn
 misconduct	la mauvaise conduite, abus (V1)
-the leadears of the executive	les dirigeants de l'exécutif, le gouvernement 
+the leaders of the executive	les dirigeants de l'exécutif, le gouvernement 
 a motion of no confidence	une motion de censure
 multi-party system	le multipartisme
 single-party system	le system de partie unique
@@ -55,12 +55,12 @@ vote rigging/ballot rigging/electoral fraud	la fraude électorale (V1/V2/V3)
 the election was rigged	l'élection était truquée
 a political opponent	un opposant politique
 a dissident	un dissident
-to gag/ muzzle the press and the opposition	bâillonner/ museler la presse et l'opposition
+to gag/ to muzzle the press and the opposition	bâillonner/ museler la presse et l'opposition
 to declare a state of emergency	déclarer l'état d'urgence
 to trample the constitution	bafouer la constitution
 to censor	censurer
 censorship	la censure
-to block/ restrict internet access	bloquer/ restreindre l'accès à internet
+to block/ to restrict internet access	bloquer/ restreindre l'accès à internet
 to circumvent/bypass censorship	contourner la censure (V1/V2)
 human rights	les droits de l'homme
 human rights abuses/violations	des atteintes aux droits de l'homme (V1/V2)
@@ -69,18 +69,17 @@ the duty to interfere/to intervene	le devoir d'ingérence (V1/V2)
 human-rights lobby	association de défense des droits de l'homme 
 China's human rights record	le passé de la Chine en matière de droits de l'homme
 the ousting of autocrats	le renversement des autocrates
-unrest	l'agitation
+unrest / turmoil	l'agitation (V1/V2)
 a civil war pitting	une guerre civile opposant
 discontent	mécontentement, malaise (V1)
 to spark unrest	provoquer des troubles
-turmoil	de l'agitation
 an upheaval	un bouleversement
 to stir up trouble	fomenter des troubles
 an insurgent	un insurgé
 an insurgency	une insurrection
 a demonstration/a protest march	une manifestation (V1/V2)
 a demonstrator/a protester	un manifestant (V1/V2)
-to hold / attend a rally	organiser / participer à un rassemblement
+to hold / to attend a rally	organiser / participer à un rassemblement
 a riot	une émeute
 a rioter	un émeutier ,casseur (V1)
 riots broke out	des émeutes ont éclaté
@@ -90,7 +89,7 @@ tear gas	du gaz lacrymogène
 a clash	un heurt ,affrontement (V1)
 a skirmish	une échauffourée
 a curfew	un couvre-feu
-take to the streets to voice their frustration	descendre dans la rue pour exprimer leur frustration
+to take to the streets to voice their frustration	descendre dans la rue pour exprimer leur frustration
 a mob	une foule déchainée
 stormed	prendre d'assaut
 to overturn	renverser

@@ -18,17 +18,17 @@ an infringement on sb's rights	une atteinte aux droits de qqn
 to encroach on basic liberties	empiéter sur les libertés fondamentales
 an encroachment of the state	un empiètement de l'état
 to restrict free speech	restreindre, limiter la liberté d'expression (V1)
-to erode individual freedoms	rogner sur les libertés individuellesh
+to erode individual freedoms	rogner sur les libertés individuelles
 to detain a suspect without charge	détenir un suspect sans l'inculper
 to be held without charge	être détenu sans être inculpé
 to remand sb in custody	placer qqn en détention provisoire
 to jail sb / to imprison sb	emprisonner qqn (V1/V2)
 the right to vote	le droit de vote
 basic rights	les droits fondamentaux
-basic / individual liberties	les libertés fondamentales / individuelles
+basic liberties/ individual liberties	les libertés fondamentales / individuelles
 to be enshrined in the constitution	être garanti par la constitution
 civil liberties	les libertés civiques
-to censor	
+to censor	censurer
 censorship	la censure
 intrusive	indiscret
 the government vindicated its scheme	le gouvernement a défendu son projet
@@ -41,11 +41,11 @@ to stop and search	contrôler et fouiller
 to arrest sb	arreter qqn
 privacy	la vie privée, l'intimité (V1)
 sb's private life	la vie privée de qqn
-to breach / to violate sb's privacy	violer la vie privée de qqn (V1/V2)
+to breach sb's privacy/ to violate sb's privacy	violer la vie privée de qqn (V1/V2)
 a breach of privacy / an invasion of privacy / a privacy violation	une violation de la vie privée (V1/V2/V3)
 to intrude upon sb's privacy	porter atteinte à la vie privée de qqn
 the promotion of religious liberty	la défense de la liberté religieuse
-reproductive rights : acces to contraception and abortion	les droits reproductifs : l'accès à la contraception et à l'avortement
+reproductive rights : access to contraception and abortion	les droits reproductifs : l'accès à la contraception et à l'avortement
 video surveillance	la vidéosurveillance
 closed circuit television (CCTV)	la télévision en circuit fermé (accronyme)
 to record	enregistrer
@@ -62,7 +62,7 @@ to bug a room	placer des micros dans une pièce
 to (wire)tap sb's phone	mettre qqn sur écoute téléphonique
 phone tapping / wiretapping	les écoutes téléphoniques (V1/V2)
 to eavesdrop on sb's phone conversations	écouter les conversations téléphoniques de qqn
-to pry into sb's personal life	mettre son nez dans la vie persinnelle de qqn
+to pry into sb's personal life	mettre son nez dans la vie personnelle de qqn
 data	des données, des informations (V1)
 personal data/personal details	des informations personnelles (V1/V2)
 sb's contact details	les coordonnées de qqn
@@ -86,7 +86,7 @@ to reign	regner
 To hold dear	tenir à coeur
 political beliefs	croyances politiques
 innocuous	inoffensif
-to sound / to ring the alarm bell	tirer la sonnette d'alarme (V1/V2)
+to sound the alarm bell/ to ring the alarm bell	tirer la sonnette d'alarme (V1/V2)
 to blow the whistle on sb	dénoncer qqn
 a whistleblower	un lanceur d'alerte
 to be ineluctable	être inéluctable
