@@ -61,9 +61,9 @@ to trample the constitution	bafouer la constitution
 to censor	censurer
 censorship	la censure
 to block/ to restrict internet access	bloquer/ restreindre l'accès à internet
-to circumvent/bypass censorship	contourner la censure (V1/V2)
+to circumvent censorship/to bypass censorship	contourner la censure (V1/V2)
 human rights	les droits de l'homme
-human rights abuses/violations	des atteintes aux droits de l'homme (V1/V2)
+human rights abuses/human rights violations	des atteintes aux droits de l'homme (V1/V2)
 a crime against humanity	un crime contre l'humanité
 the duty to interfere/to intervene	le devoir d'ingérence (V1/V2)
 human-rights lobby	association de défense des droits de l'homme 
@@ -104,7 +104,7 @@ a rebellion	une rébellion ,révolte (V1)
 to defy the authorities	défier les autorités
 an uprising	un soulèvement
 to rise up against	se soulever contre
-to overthrow/to topple a dictator	renverser un dictateur (V1/V2)
+to overthrow a dictator/to topple a dictator	renverser un dictateur (V1/V2)
 to oust a dictator	évincer un dictateur
 the overthrow of a dictator	le renversement d'un dictateur
 to depose a ruler	déposer un dirigeant
@@ -115,7 +115,7 @@ to require	nécessiter
 to spell out	expliquer en détail
 checks and balances	l'équilibre des pouvoirs
 ruthless repression	répression brutale
-to put down/to suppress a rebellion	réprimer une rébellion (V1/V2)
+to put down a rebellion/to suppress a rebellion	réprimer une rébellion (V1/V2)
 to quell the protests	réprimer ,étouffer la contestation (V1)
 crackdown/clampdown	des mesures de repression (V1/V2)
 to send people to prison	mettre les gens en prison
