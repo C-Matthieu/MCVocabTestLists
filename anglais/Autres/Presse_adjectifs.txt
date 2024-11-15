@@ -9,7 +9,7 @@ clunky	maladroit
 witty	plein d'esprit, spirituel
 wisecracking	blagueur
 wrecked	(complètement) détruit
-dire	désastreux
+dire	désastreux, pressant, urgent
 daunting	intimidant
 thankless	ingrat
 unyielding	inflexible/inébranlable

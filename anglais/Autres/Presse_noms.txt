@@ -25,3 +25,17 @@ madmen	fous
 cobblestone	pavé
 strain	effort, pression
 falsehood	mensonge, malhonnêteté
+stain	tache
+tear	déchirure
+settler	colon
+the premises	les locaux
+loan	emprunt, prêt (d'argent)
+burden	charge, fardeau
+GDP (Gross Domestic Product)	PIB (Produit Intérieur Brut)
+livestock	bétail
+poultry farm	élévage de volailles
+beekeeping	apiculture
+crop	culture, récolte (agricole)
+dam	barrage (d'eau)
+UNDP (United Nations Development Programme)	PNUD (Programme des Nations Unies pour le Développement)
+onshore	sur terre
