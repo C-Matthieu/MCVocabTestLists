@@ -1,5 +1,5 @@
 lace	dentelle
-intimacy	intimité
+intimacy/togetherness	intimité (V1/V2)
 hen	poule
 hatch	trappe
 din	vacarme
@@ -39,3 +39,5 @@ crop	culture, récolte (agricole)
 dam	barrage (d'eau)
 UNDP (United Nations Development Programme)	PNUD (Programme des Nations Unies pour le Développement)
 onshore	sur terre
+feast	festin
+bitterness	amertume

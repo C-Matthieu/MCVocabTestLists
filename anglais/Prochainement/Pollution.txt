@@ -1,0 +1,114 @@
+to pollute	polluer
+water pollution	la pollution de l'eau
+noise pollution	la pollution sonore
+a polluter	un pollueur
+a pollutant / a contaminant	un polluant, une substance polluante (V1/V2)
+polluting	polluant
+to pollute little / a lot	être peu / très polluant
+non-polluting products / eco-friendly products	produits non polluants (V1/V2)
+to reduce pollution / to curb pollution	diminuer la pollution (V1/V2)
+to waste	gaspiller
+wastage	le gaspillage OU les déchets (V1)
+to bear	supporter
+air pollution	la pollution de l'air, la pollution atmosphérique
+smog	le smog (nuage de pollution)
+a pollution peak	un pic de pollution
+factory smog / factory fumes	les fumées d'usine (V1/V2)
+car exhaust / exhaust fumes	les gaz d'échappement (V1/V2)
+unleaded petrol / lead-free petrol	l'essence sans plomb (V1/V2)
+a catalytic converter	un pot catalytique
+to monitor air quality	surveiller la qualité de l'air
+to have difficulty breathing	avoir du mal à respirer
+asthma	l'asthme
+Clean Air Act	loi sur la pureté de l'air
+a mixture of fog, chimney smoke and other pllutants formed a thick blanket	un mélange de brouillard, de fumée de cheminée et d'autres polluants formait une épaisse couverture
+power stations	centrales thermiques
+nitrates	les nitrates
+fertilizers	les engrais
+groundwater	la nape phréatique
+to poison rivers	contaminer les rivières
+to contaminate	contaminer
+a toxic chemical	une substance chimique toxique
+dioxin	la dioxine
+harmful	nocif
+the sewage system	les égouts
+a sewer	un égout
+sewage / waste water	les eaux usées (V1/V2)
+a sewage works / a sewage plant (US) / a sewage farm (UK)	une station d'épuration des eaux (V1/V2(US)/V3(UK))
+asbestos	l'amiante
+to remove asbestos from a building	désamianter un bâtiment
+lead poisoning	le saturnisme
+PCBs	les PCB
+CFCs	les gaz CFC
+the ozone layer	la couche d'ozone
+acid rains	les pluies acides
+an oil slick	une marée noire
+an oil spill	un déversement accidentel de pétrole
+oil-covered birds	des oiseaux couverts de pétrole
+to empty one's tanks / to flush out one's tanks	dégaze
+oil tankers emptying their tanks / discharging waste oil	le dégazage
+to design	concevoir
+industrial mining	exploitation minière
+waste /litter / rubbish (GB) / garbage (US)	les ordures, les détritus, les déchets (V1/V2/V3(GB)/V4(US))
+toxic / organic waste	les déchets toxiques / organiques
+to dispose of waste	éliminer les déchets
+hazardous waste	les déchets dangereux
+household refuse / household rubbish	les ordures ménagères
+disposable	jetable
+biodegradable	biodégradable
+to collect waste	ramasser les déchets
+waste collection	le ramassage des ordures
+a waste collection centre	une déchetterie
+a dustman (GB) / a garbage man (US)	un éboueur (V(GB)/V(US))
+a dustbin / a bin (GB) / a garbage can (US)	une boîte à ordres, une poubelle (V1/V2(GB)/V3(US))
+a wheelie bin	une poubelle à roulettes
+a bin lorry / a dust cart (GB) / a garbage truck (US)	un camion poubelle (V1/V2(GB)/V3(US))
+a bin liner	un sac poubelle
+to discard	se débarrasser de
+we have fallen out of love	on ne les aime plus
+the generation of toxic waste	la production de déchets toxiques
+consumerism	le consumérisme
+to dump rubbish	déposer, jeter des ordures
+to throw away	jeter
+a rubbish dump (GB) / a garbage dump (US) / a rubbish tip / a dumping ground	une décharge (V1(GB)/V2(US)/V3/V4)
+an illicit rubbish dump	une décharge sauvage
+to burry	enterrer, enfouir
+a landill	un site d'enfouissement des ordures
+to burn	brûler
+to destroy	détruire
+an incinerator	un incinérateur
+to melt	fondre
+a leak	une fuite
+to wear out	s'user
+space junk	les débris spatiaux
+nuclear waste	les déchets nucléaires
+radioactive fallout	retombées radioactives
+radioactivity	la radioactivité
+carcinogenic	cancérigène
+to dispose of nuclear waste	éliminer les déchets nucléaires
+nuclear waste disposal	l'élimination des déchets nucléaires
+a container	un conteneur
+hermetically sealed containers	des conteneurs hermétiquement fermés
+the storage of nuclear waste	le stockage des déchets radioactifs
+the precautionary principle / the safety-first principle	le principe de précaution (V1/V2)
+a malfunction	un dysfonctionnement
+a meltdown of the reactor core	une fusion du coeur du réacteur
+leukemia	la leucémie
+to be disputed	être contesté
+to process waste	traiter, transformer les déchets
+to sort	trier
+sorting / waste separation	le tri sélectif (V1/V2)
+a bottle bank	une conteneur de verre
+rags	les chiffons
+cardboard	le carton
+scrap metal	la ferraille
+packaging	les emballages
+a can of beer / a beer can	une canette de bière (V1/V2)
+a glut	un excès, un surplus
+flimsy plastic bag	un sac en plastique fin
+recycling	le recyclage
+to recycle plastic	recycler le plastique
+recyclable	recyclable
+a recycling plant	une usine de recyclage
+recycling costs	les coûts du recyclage
+don't just bin it, recycle it	ne jetez pas, recyclez

@@ -19,3 +19,5 @@ leafy	feuillu
 mind-blowing	hallucinant
 straightforward	facile, simple
 subtle	subtil
+gathered	rassemblé
+neglected	négligé, laissé à l'abandon
