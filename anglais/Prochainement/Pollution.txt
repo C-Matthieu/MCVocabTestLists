@@ -45,15 +45,15 @@ acid rains	les pluies acides
 an oil slick	une marée noire
 an oil spill	un déversement accidentel de pétrole
 oil-covered birds	des oiseaux couverts de pétrole
-to empty one's tanks / to flush out one's tanks	dégaze
-oil tankers emptying their tanks / discharging waste oil	le dégazage
+to empty one's tanks / to flush out one's tanks	dégazer (V1/V2)
+oil tankers emptying their tanks / oil tankers discharging waste oil	le dégazage (V1/V2)
 to design	concevoir
 industrial mining	exploitation minière
 waste /litter / rubbish (GB) / garbage (US)	les ordures, les détritus, les déchets (V1/V2/V3(GB)/V4(US))
 toxic / organic waste	les déchets toxiques / organiques
 to dispose of waste	éliminer les déchets
 hazardous waste	les déchets dangereux
-household refuse / household rubbish	les ordures ménagères
+household refuse / household rubbish	les ordures ménagères (V1/V2)
 disposable	jetable
 biodegradable	biodégradable
 to collect waste	ramasser les déchets
@@ -72,7 +72,7 @@ to dump rubbish	déposer, jeter des ordures
 to throw away	jeter
 a rubbish dump (GB) / a garbage dump (US) / a rubbish tip / a dumping ground	une décharge (V1(GB)/V2(US)/V3/V4)
 an illicit rubbish dump	une décharge sauvage
-to burry	enterrer, enfouir
+to bury	enterrer, enfouir
 a landill	un site d'enfouissement des ordures
 to burn	brûler
 to destroy	détruire

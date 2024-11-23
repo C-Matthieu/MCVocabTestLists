@@ -5,7 +5,7 @@ the depletion of ressources	l'épuisement des ressources
 the exhaust oil supplies	épuiser les réserves de pétrole
 the exhaustion of oil supplies	l'épuisement des réserves de pétrole
 to run out of energy / to be short of oil	venir à manquer d'énergie / manquer de pétrole
-the energy gap / the energy shortgall / the energy shortage	la pénurie d'énergie
+the energy gap / the energy shortgall / the energy shortage	la pénurie d'énergie (V1/V2/V3)
 Organization of the Petroleum Exporting Countries (OPEC)	Organisation des pays exportateurs de pétrole (V1(accronyme))
 to secure a steady income	s'assurer un revenu stable
 to exert pressure on 	faire pression sur 
@@ -16,7 +16,7 @@ energy needs / energy requirements	les besoins en énergie
 overproduction	surproduction
 hydrocarbons	les hydrocarbures
 fossil fuels	les énergies fossiles
-oil / petroleum	le pétrole
+oil / petroleum	le pétrole (V1/V2)
 crude oil	le pétrole brut
 gas	le gaz, (en anglais américain : l'essence)
 coal	le charbon
@@ -54,7 +54,7 @@ renewable energy sources / renewables	les énergies renouvelables
 wind power	l'énergie éolienne
 a windmill/ a windpump / a wind turbine	une éolienne (V1/V2/V3)
 a windfarm	un parc éolien, une ferme éolienne, un champ d'éoliennes
-solar power / solar energy	l'énergie solaire
+solar power / solar energy	l'énergie solaire (V1/V2)
 a solar cell	une cellule solaire
 a photovoltaic cell	une cellule photovoltaïque, une photopile
 a solar panel	un panneau solaire
@@ -76,12 +76,12 @@ a nuclear plant	une centrale nucléaire
 a nuclear reactor	un réacteur nucléaire
 nuclear facilities	des installations nucléaires
 to go nuclear	se convertir au nucléaire
-to abandon nuclear energy / to phase out nuclear energy	sortir du nucléaire
+to abandon nuclear energy / to phase out nuclear energy	sortir du nucléaire (V1/V2)
 worsening	aggravation
 greenhouse gas	gaz à effet de serre
 to require	necessiter
 nuclear waste	les déchets nucléaires
-to porcess waste	traiter les déchets
+to process waste	traiter les déchets
 to dispose of nuclear waste	éliminer les déchets nucléaires
 to store / storage	stocker / le stockage
 a container	un conteneur
@@ -99,7 +99,7 @@ a tidal turbine / a marine turbine	une hydrilienne (V1/V2)
 a battery-powered car / an electric car	une voiture électrique (V1/V2)
 a hybrid car	une voiture hybride
 the distribution of electricity	la distribution de l'électricité
-the electricity grid / the prower grid / national grid (GB)	le réseau électrique (V1/V2/V3(GB))
+the electricity grid / the power grid / national grid (GB)	le réseau électrique (V1/V2/V3(GB))
 a provider	un fournisseur
 a suscriber	un abonné
 an electrical appliance	un appareil électrique
