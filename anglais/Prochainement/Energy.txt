@@ -1,0 +1,107 @@
+fuel	le combustible OU le carburant
+oil supplies / oil reserves	les réserves de pétrole (V1/V2)
+to run out / to become depleted	s'épuiser
+the depletion of ressources	l'épuisement des ressources
+the exhaust oil supplies	épuiser les réserves de pétrole
+the exhaustion of oil supplies	l'épuisement des réserves de pétrole
+to run out of energy / to be short of oil	venir à manquer d'énergie / manquer de pétrole
+the energy gap / the energy shortgall / the energy shortage	la pénurie d'énergie
+Organization of the Petroleum Exporting Countries (OPEC)	Organisation des pays exportateurs de pétrole (V1(accronyme))
+to secure a steady income	s'assurer un revenu stable
+to exert pressure on 	faire pression sur 
+oil shock	le choc pétrolier
+energy production / consumption	la production / la consommation d'énergie
+the demand for energy	la demande d'énergie
+energy needs / energy requirements	les besoins en énergie
+overproduction	surproduction
+hydrocarbons	les hydrocarbures
+fossil fuels	les énergies fossiles
+oil / petroleum	le pétrole
+crude oil	le pétrole brut
+gas	le gaz, (en anglais américain : l'essence)
+coal	le charbon
+oil shale	le schiste bitumineux
+shale oil / shale gas	l'huile de schiste / le gaz de schiste
+tar sands	les sables bitumineux
+fracking	l'hydrofracturation
+an oil tanker	un pétrolier
+an oil rig / an oil platform	une plateforme pétrolière
+an oil well	un puits de pétrole
+an oil pipeline	un oléoduc
+a gas pipeline	un gazoduc
+oil prices	le prix du pétrole
+an oil producing / an oil exporting country	un pays producteur / exportateur de pétrole
+$65 a barrel	65 dollars le baril
+an oil crisis / an oil shock	une crise pétrolière / un choc pétrolier
+a gaz-guzzler	une voiture qui consomme beaucoup
+an SUV / a sports utility vehicle / a four-wheel drive	un 4x4 (V1/V2/V3)
+to reduce oil consumption	réduire la consommation de pétrole
+to save / waste energy	économiser / gaspiller de l'énergie
+energy savings	les économies d'énergie
+energy-saving measures	des mesures d'économie d'énergie
+energy policy	politique énergétique
+a power station / a power plant	une centrale électrique / thermique
+to generate electricity	produire de l'électricité
+an oil refinery	une raffinerie de pétrole
+oil products	les dérivés du pétrole
+petrol (GB) / gas (US)	l'essence (V1(GB)/V2(US))
+heating oil	le fioul, le mazout
+kerosene	le kérosène
+International Renewable Energy Agency (IRENA)	Agence internationale des énergies renouvelables (V1(accronyme))
+a planned city	une ville en projet
+renewable	renouvelable
+renewable energy sources / renewables	les énergies renouvelables
+wind power	l'énergie éolienne
+a windmill/ a windpump / a wind turbine	une éolienne (V1/V2/V3)
+a windfarm	un parc éolien, une ferme éolienne, un champ d'éoliennes
+solar power / solar energy	l'énergie solaire
+a solar cell	une cellule solaire
+a photovoltaic cell	une cellule photovoltaïque, une photopile
+a solar panel	un panneau solaire
+a wintering colony of birds	une colonie d'oiseaux hivernants
+biofuels	les biocarburants, les agrocarburants
+biomass	la biomasse
+bioethanol	le bioéthanol
+palm oil	l'huile de palme
+geothermal energy / geothermal power	l'énergie géothermique (V1/V2)
+a heat pump	une pompe à chaleur
+an abundance of ressources	une abondance de ressources
+With its stance	Avec sa prise de position
+nuclear power / nuclear energy	l'énergie nucléaire (V1/V2)
+uranium enrichment	l'enrichissement de l'uranium
+fusion / fission	fusion / fission
+the nuclear industry	le nucléaire
+a fast breeder (reactor)	un (réacteur) surgénérateur
+a nuclear plant	une centrale nucléaire
+a nuclear reactor	un réacteur nucléaire
+nuclear facilities	des installations nucléaires
+to go nuclear	se convertir au nucléaire
+to abandon nuclear energy / to phase out nuclear energy	sortir du nucléaire
+worsening	aggravation
+greenhouse gas	gaz à effet de serre
+to require	necessiter
+nuclear waste	les déchets nucléaires
+to porcess waste	traiter les déchets
+to dispose of nuclear waste	éliminer les déchets nucléaires
+to store / storage	stocker / le stockage
+a container	un conteneur
+nuclear waste disposal	l'élimination des déchets nucléaires
+to bury	enfouir
+a meltdown	fusion (du coeur d'un réacteur nucléaire)
+radioactivity	la radioactivité
+radioactive material	des matériaux radioactifs
+nuclear fallout	les retombées radioactives
+safety	la sécurité
+hydroelectricity / hydropower	l'hydroélectricité (V1/V2)
+a dam / a barrage	un barrage (V1/V2)
+tidal energy / tidal power	l'énergie marémotrice (V1/V2)
+a tidal turbine / a marine turbine	une hydrilienne (V1/V2)
+a battery-powered car / an electric car	une voiture électrique (V1/V2)
+a hybrid car	une voiture hybride
+the distribution of electricity	la distribution de l'électricité
+the electricity grid / the prower grid / national grid (GB)	le réseau électrique (V1/V2/V3(GB))
+a provider	un fournisseur
+a suscriber	un abonné
+an electrical appliance	un appareil électrique
+domestic appliances	les appareils électroménagers
+a smart meter	un compteur intelligent
