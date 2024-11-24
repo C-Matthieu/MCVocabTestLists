@@ -21,7 +21,7 @@ to monitor air quality	surveiller la qualité de l'air
 to have difficulty breathing	avoir du mal à respirer
 asthma	l'asthme
 Clean Air Act	loi sur la pureté de l'air
-a mixture of fog, chimney smoke and other pllutants formed a thick blanket	un mélange de brouillard, de fumée de cheminée et d'autres polluants formait une épaisse couverture
+a mixture of fog, chimney smoke and other pollutants formed a thick blanket	un mélange de brouillard, de fumée de cheminée et d'autres polluants formait une épaisse couverture
 power stations	centrales thermiques
 nitrates	les nitrates
 fertilizers	les engrais
