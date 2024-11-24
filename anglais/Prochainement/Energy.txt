@@ -1,18 +1,18 @@
 fuel	le combustible OU le carburant
 oil supplies / oil reserves	les réserves de pétrole (V1/V2)
-to run out / to become depleted	s'épuiser
+to run out / to become depleted	s'épuiser (V1/V2)
 the depletion of ressources	l'épuisement des ressources
 the exhaust oil supplies	épuiser les réserves de pétrole
 the exhaustion of oil supplies	l'épuisement des réserves de pétrole
 to run out of energy / to be short of oil	venir à manquer d'énergie / manquer de pétrole
-the energy gap / the energy shortgall / the energy shortage	la pénurie d'énergie (V1/V2/V3)
+the energy gap / the energy shortfall / the energy shortage	la pénurie d'énergie (V1/V2/V3)
 Organization of the Petroleum Exporting Countries (OPEC)	Organisation des pays exportateurs de pétrole (V1(accronyme))
 to secure a steady income	s'assurer un revenu stable
 to exert pressure on 	faire pression sur 
 oil shock	le choc pétrolier
 energy production / consumption	la production / la consommation d'énergie
 the demand for energy	la demande d'énergie
-energy needs / energy requirements	les besoins en énergie
+energy needs / energy requirements	les besoins en énergie (V1/V2)
 overproduction	surproduction
 hydrocarbons	les hydrocarbures
 fossil fuels	les énergies fossiles
@@ -20,12 +20,12 @@ oil / petroleum	le pétrole (V1/V2)
 crude oil	le pétrole brut
 gas	le gaz, (en anglais américain : l'essence)
 coal	le charbon
-oil shale	le schiste bitumineux
+oil shale	les schistes bitumineux
 shale oil / shale gas	l'huile de schiste / le gaz de schiste
 tar sands	les sables bitumineux
 fracking	l'hydrofracturation
 an oil tanker	un pétrolier
-an oil rig / an oil platform	une plateforme pétrolière
+an oil rig / an oil platform	une plateforme pétrolière (V1/V2)
 an oil well	un puits de pétrole
 an oil pipeline	un oléoduc
 a gas pipeline	un gazoduc
@@ -33,7 +33,7 @@ oil prices	le prix du pétrole
 an oil producing / an oil exporting country	un pays producteur / exportateur de pétrole
 $65 a barrel	65 dollars le baril
 an oil crisis / an oil shock	une crise pétrolière / un choc pétrolier
-a gaz-guzzler	une voiture qui consomme beaucoup
+a gas-guzzler	une voiture qui consomme beaucoup
 an SUV / a sports utility vehicle / a four-wheel drive	un 4x4 (V1/V2/V3)
 to reduce oil consumption	réduire la consommation de pétrole
 to save / waste energy	économiser / gaspiller de l'énergie
@@ -50,7 +50,7 @@ kerosene	le kérosène
 International Renewable Energy Agency (IRENA)	Agence internationale des énergies renouvelables (V1(accronyme))
 a planned city	une ville en projet
 renewable	renouvelable
-renewable energy sources / renewables	les énergies renouvelables
+renewable energy sources / renewables	les énergies renouvelables (V1/V2)
 wind power	l'énergie éolienne
 a windmill/ a windpump / a wind turbine	une éolienne (V1/V2/V3)
 a windfarm	un parc éolien, une ferme éolienne, un champ d'éoliennes
