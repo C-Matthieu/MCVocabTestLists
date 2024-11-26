@@ -73,7 +73,7 @@ to throw away	jeter
 a rubbish dump (GB) / a garbage dump (US) / a rubbish tip / a dumping ground	une décharge (V1(GB)/V2(US)/V3/V4)
 an illicit rubbish dump	une décharge sauvage
 to bury	enterrer, enfouir
-a landill	un site d'enfouissement des ordures
+a landfill	un site d'enfouissement des ordures
 to burn	brûler
 to destroy	détruire
 an incinerator	un incinérateur
