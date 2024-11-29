@@ -2,7 +2,7 @@ fuel	le combustible OU le carburant
 oil supplies / oil reserves	les réserves de pétrole (V1/V2)
 to run out / to become depleted	s'épuiser (V1/V2)
 the depletion of ressources	l'épuisement des ressources
-the exhaust oil supplies	épuiser les réserves de pétrole
+to exhaust oil supplies	épuiser les réserves de pétrole
 the exhaustion of oil supplies	l'épuisement des réserves de pétrole
 to run out of energy / to be short of oil	venir à manquer d'énergie / manquer de pétrole
 the energy gap / the energy shortfall / the energy shortage	la pénurie d'énergie (V1/V2/V3)
