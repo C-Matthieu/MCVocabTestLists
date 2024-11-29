@@ -1,0 +1,40 @@
+Novel	Roman
+Short story	Nouvelle
+Poem	Poème
+Play	Pièce de théâtre
+Essay	Essai
+Biography	Biographie
+Autobiography	Autobiographie
+Diary	Journal intime
+Letter	Lettre
+Speech	Discours
+Article	Article
+Report	Rapport
+Review	Critique (e.g., critique littéraire for book review)
+Thesis	Thèse
+Memoir	Mémoires
+Instruction manual	Manuel d'instructions
+Advertisement	Publicité
+Fairy tale	Conte de fées
+Myth	Mythe
+Legend	Légende
+Script	Scénario
+Comic strip	Bande dessinée (BD)
+Editorial	Éditorial
+Pamphlet	Pamphlet
+Proverb	Proverbe
+Riddle	Devinette
+Song lyrics	Paroles de chanson
+Scientific paper	Article scientifique
+Blog post	Article de blog
+News report	Reportage
+Cookbook	Livre de cuisine
+Travel guide	Guide de voyage
+Manifesto	Manifeste
+Catalog	Catalogue
+Manual	Manuel
+Journalistic investigation	Enquête journalistique
+Satire	Satire
+Fable	Fable
+Parody	Parodie
+Obituary	Nécrologie
