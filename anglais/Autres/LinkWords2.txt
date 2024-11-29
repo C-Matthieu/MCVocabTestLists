@@ -3,7 +3,7 @@ but	mais
 or	ou
 so	donc
 because	parce que
-therefore par conséquent
+therefore	par conséquent
 however	cependant
 although	bien que
 since	puisque
@@ -14,8 +14,8 @@ even though/even if	même si (V1/V2)
 as	comme
 thus	ainsi
 moreover	de plus
-besides/furthermore	en outre (V1/V2)
-in addition en addition
+besides/furthermore/moreover	en outre (V1/V2/V3)
+in addition	en addition
 on the other hand	en revanche
 for example/for instance	par exemple (V1/V2)
 such as	tel que
@@ -35,7 +35,7 @@ to illustrate	pour illustrer
 in conclusion	en conclusion
 above all	surtout
 in particular	en particulier
-indeeden	effet
+indeed	en effet
 nevertheless	néanmoins
 nonetheless	toutefois
 as soon as	dès que
