@@ -1,0 +1,72 @@
+and	et
+but	mais
+or	ou
+so	donc
+because	parce que
+therefore par conséquent
+however	cependant
+although	bien que
+since	puisque
+while	alors que
+when	quand
+if	si
+even though/even if	même si (V1/V2)
+as	comme
+thus	ainsi
+moreover	de plus
+besides/furthermore	en outre (V1/V2)
+in addition en addition
+on the other hand	en revanche
+for example/for instance	par exemple (V1/V2)
+such as	tel que
+instead	au lieu de
+in contrast	en contraste
+similarly	similairement
+likewise	de même
+hence	d'où
+then	alors
+after	après
+before	avant
+next	ensuite
+finally	finalement
+meanwhile	pendant ce temps
+as a result	en conséquence
+to illustrate	pour illustrer
+in conclusion	en conclusion
+above all	surtout
+in particular	en particulier
+indeeden	effet
+nevertheless	néanmoins
+nonetheless	toutefois
+as soon as	dès que
+in spite of/despite	malgré (V1/V2)
+on condition that/provided that	à condition que (V1/V2)
+otherwise	autrement
+unless	à moins que
+once	une fois que
+last week	la semaine dernière
+ago	il y a + time
+during	pendant + évènement
+for	pendant + durée
+since	depuis
+in order to	pour, afin de
+so as to	afin de
+whereas	tandis que
+on the contrary	au contraire
+contrary to/unlike	contrairement à (V1/V2)
+even	même
+all the same	tout de même
+what if	et si
+suppose	supposer
+no further than	ne pas aller plus loin que
+above	au-dessus de
+notwithstanding	nonobstant, malgré
+inasmuch as/insomuch as	dans la mesure où
+albeit	quoique, bien que
+thereafter	par la suite
+henceforth	dorénavant
+inasmuch as	autant que
+provided that	pourvu que
+nonetheless	malgré tout
+be that as it may	quoi qu'il en soit
+whereupon	sur quoi, après quoi
