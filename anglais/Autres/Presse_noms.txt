@@ -41,3 +41,7 @@ UNDP (United Nations Development Programme)	PNUD (Programme des Nations Unies po
 onshore	sur terre
 feast	festin
 bitterness	amertume
+pledge	promesse, engagement
+beacon	phare, balise
+duty	devoir, obligation ou taxe 
+knock-on effect	retombée, effet en chaîne
