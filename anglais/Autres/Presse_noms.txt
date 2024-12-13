@@ -45,3 +45,9 @@ pledge	promesse, engagement
 beacon	phare, balise
 duty	devoir, obligation ou taxe 
 knock-on effect	retombée, effet en chaîne
+fellow citizen	concitoyen
+self-reliance	autonomie
+doomsday	jour du jugement dernier, apocalypse
+savvy	jugeote, bon sens
+readiness	disponibilité, préparation 
+forbear/ forebear	ancêtre

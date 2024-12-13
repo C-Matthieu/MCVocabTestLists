@@ -22,3 +22,7 @@ subtle	subtil
 gathered	rassemblé
 neglected	négligé, laissé à l'abandon
 sheer	pur, simple
+consistent	cohérent
+glitzy	éclatant
+gilded	doré, à la beauté superficielle
+gleeful	ravi, joyeux
