@@ -73,3 +73,4 @@ whereupon	sur quoi, après quoi
 neither ... nor	ni ... ni
 within	à l'intérieur de, dans
 whenever	n'importe quand, à chaque fois que
+whereby	en vertu de laquelle, par laquelle
