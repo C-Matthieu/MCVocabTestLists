@@ -51,3 +51,5 @@ doomsday	jour du jugement dernier, apocalypse
 savvy	jugeote, bon sens
 readiness	disponibilité, préparation 
 forbear/ forebear	ancêtre
+span	une durée, un espace
+willingness	empressement, bonne volonté
