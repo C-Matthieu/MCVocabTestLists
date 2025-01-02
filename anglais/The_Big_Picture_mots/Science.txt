@@ -29,16 +29,16 @@ evidence	des preuves
 to have proof of something	avoir la preuve de quelque chose
 to test a theory	mettre une théorie à l'épreuve
 to call a belief into question	remettre en cause une croyance
-to challenge an idea / to question an idea / to dispute an idea	contester une idée
-questionable / disputable	contestable
-unquestionable / indisputable	incontestable
+to challenge an idea / to question an idea / to dispute an idea	contester une idée (V1/V2/V3)
+questionable / disputable	contestable (V1/V2)
+unquestionable / indisputable	incontestable (V1/V2)
 a statesman	un homme d'État
 to expound	exposer
 the forerunner	le précurseur
 the observation of recurring phenomenal patterns	l'observation de schémas phénoménaux récurrents
 research	la recherche, des recherches
 to do research	faire des recherches
-to carry out research into / on a subject	mener des recherches sur un sujet
+to carry out research into / on a subject	mener des recherches sur un sujet (V1/V2)
 cutting-edge research	la recherche de pointe
 groundbreaking research	des recherches révolutionnaires
 a research laboratory	un laboratoire de recherches
@@ -63,7 +63,7 @@ a phenomenon / phenomena	un phénomène / des phénomènes
 to carry out an experiment / to conduct an experiment / to make an experiment	faire une expérience (V1/V2/V3)
 to experiment on mice	expérimenter sur des souris
 to experiment with a new vaccine	expérimenter un nouveau vaccin
-a laboratory / a lab	un laboratoire
+a laboratory / a lab	un laboratoire (V1/V2)
 a guinea pig	un cobaye
 to obtain a tenured position	se faire titulariser
 research and development	recherche et développement
@@ -83,11 +83,11 @@ technology	technologiques
 technical	technique
 a technician	un technicien
 a technicality	un détail technique OU une difficulté, un ennui technique
-a science park / a science and technology park / a research park / a technology park	un technopole
+a science park / a science and technology park / a research park / a technology park	un technopole (V1/V2/V3/V4)
 the technorati	les gens qui ont une compétence technique
 a technophobe	un technophobe
 technophobic	technophobe
-technophobia / technofear	la technophobie
+technophobia / technofear	la technophobie (V1/V2)
 technocracy	la technocratie
 in cotton mills	dans les filatures de coton
 a weaver	un tisserand
