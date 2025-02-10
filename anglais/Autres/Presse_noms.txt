@@ -53,3 +53,6 @@ readiness	disponibilité, préparation
 forbear/ forebear	ancêtre
 span	une durée, un espace
 willingness	empressement, bonne volonté
+threshold	seuil (de porte ou de tolérance)
+seamstress	 couturière
+gobbledygook	charabia (familier)

@@ -18,7 +18,7 @@ an astronomer	un astronome
 computer science	l'informatique
 a computer scientist / a computer engineer / an IT specialist	un informaticien (V1/V2/V3)
 to assess	évaluer
-the credentials	or affiliations	les références ou les affiliations
+the credentials or affiliations	les références ou les affiliations
 a recipe	une recette
 knowledge	la connaissance, les connaissances, le savoir
 a theory	une théorie
@@ -79,7 +79,7 @@ paradigm shifts	changements de paradigme
 inquiry	questionnement
 the heaping up	l'accumulation
 technique	technique
-technology	technologiques
+technology	technologie
 technical	technique
 a technician	un technicien
 a technicality	un détail technique OU une difficulté, un ennui technique
@@ -103,7 +103,7 @@ an inventor	un inventeur
 inventive / creative	inventif / créatif
 inventiveness / creativity	l'inventivité / la créativité
 to act as a pioneer	faire oeuvre de pionnier
-pioneer work	un travail pionnier, novateur
+a pioneer work	un travail pionnier, novateur
 to pioneer the study of something	être l'un des premiers à étudier quelque chose
 to register a patent	déposer un brevet
 the electric light bulb	l'ampoule électrique
@@ -141,7 +141,7 @@ a MP3 player	un lecteur MP3
 a sensor	un capteur
 to brew	se préparer
 to be upended	être chamboulé
-upheaval	un bouleversement
+an upheaval	un bouleversement
 to come across	paraître
 to churn out	produire en masse
 to usher in	introduire
