@@ -70,7 +70,7 @@ meritocracy	la méritocratie
 the gap between rich and poor	le fossé entre les riches et les pauvres
 the gap between the haves and the have-nots	la fracture sociale
 to bridge the gap / to narrow the gap	combler le fossé (V1/V2)
-the gap is closing / the gap is narrowing	le fossé se comble
+the gap is closing / the gap is narrowing	le fossé se comble (V1/V2)
 the gap is widening	le fossé se creuse
 the social divide	le fossé social, la fracture sociale
 a discrepancy	une disparité
@@ -102,12 +102,12 @@ a decline in living standards	une baisse du niveau de vie
 to struggle to get by / to struggle by	peiner à s'en sortir (V1/V2)
 to have difficulty paying the bills	avoir du mal à payer les factures
 to make ends meet	joindre les deux bouts
-to live frome hand to mouth	vivre au jour le jour
+to live from hand to mouth	vivre au jour le jour
 to scrape by	vivoter
 to survive	survivre
 homeless	sans-abri
 homelessness is on the rise	il y a de plus en plus de sans-abri
-a tramp / a bum	un clodo
+a tramp / a bum	un clodo (V1/V2)
 a bag lady	une clocharde
 a soup kitchen / a bread line	une soupe populaire (V1/V2)
 the underclass	le quart-monde
