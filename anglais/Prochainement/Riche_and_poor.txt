@@ -1,0 +1,119 @@
+standard of living / living-standards	le niveau de vie (V1/V2)
+GDP per head / GDP per inhabitant	le PIB par habitant (V1/V2)
+lifestyle / way of life	mode de vie (V1/V2)
+buying power / spending power / purchasing power	le pouvoir d'achat (V1/V2/V3)
+worldwide	mondial
+asset	capital, bien, actif
+rich / wealthy	riche (V1/V2)
+wealth	la richesse 
+well-off	aisé
+well-to-do	nanti
+well-heeled	fortuné
+to be affluent	être nanti, vivre dans l'aisance
+affluence	la richesse, l'abondance
+the affluent society	la société d'abondance
+well-being	le bien-être
+to soar	monter en flèche
+rich people / the rich	les riches (V1/V2)
+riches	des richesses
+the super-rich / the mega-rich	les grandes fortunes
+stinking rich	plein aux as, bourré de fric
+in moneyed circles	parmi les nantis, les possédants
+a strockbroker	un courtier en bourse
+to amass	accumuler, amasser
+a millionaire	un millionnaire
+a dollar millionaire	un millionnaire en dollars
+a billionaire	un milliardaire
+a zillionaire / a multimillionaire	un multimillionnaire (V1/V2)
+an oil magnate	un magnat du pétrole
+a press baron	un baron de la presse
+a media mogul	un magnat des médias
+an oil tycon / a software tycon	un roi du pétrole/ des logiciels
+income	le revenu
+income tax	l'impôt sur le revenu
+a tax haven	un paradis fiscal
+tax evasion	la fraud fiscale
+to trash money away	planquer de l'argent
+high-income / low-income families	les familles à revenu élevé/ faible
+a taxpayer	un contribuable
+earnings	les gains
+shell companies	les sociétés écrans
+poverty	la pauvreté
+poor people / the poor	les pauvres
+the working poor	les travailleurs pauvres
+poor / impoverished	pauvre
+the needy	les nécessiteux, les indigents
+extreme poverty / dire poverty	la misère (V1/V2)
+destitution	la misère noire, le dénuement
+the most destitute	les plus démunis
+to fall on hard times / to become destitute	tomber dans la misère (V1/V2)
+to sink into poverty	sombrer dans la pauvreté
+below / above the poverty line	en dessous/ au-dessus du seuil de pauvreté
+to join forces	se mobiliser
+a low-income household	un ménage à revenu modeste
+deprived / disadvantaged / underprivileged	défavorisé (V1/V2/V3)
+to live on $2 a day	vivre avec 2 dollars par jour
+to live on the benefit (GB) / to live on welfare (US)	vivre d'allocations (V1(GB)/V2(US))
+pauperism	le paupérisme
+pauperization	la paupérisation
+mind-bending	époustouflant, hallucinant
+in the span	l'espace (de temps)
+inequality	l'inégalité
+unequal / uneven	inégal (V1/V2)
+to share	partager
+to share out	répartir
+the distribution of wealth	la répartition des richesses
+a two-tier society	une société à deux vitesses
+the social fabric	le tissu social
+alumni	les anciens élèves
+meritocracy	la méritocratie
+the gap between rich and poor	le fossé entre les riches et les pauvres
+the gap between the haves and the have-nots	la fracture sociale
+to bridge the gap / to narrow the gap	combler le fossé (V1/V2)
+the gap is closing / the gap is narrowing	le fossé se comble
+the gap is widening	le fossé se creuse
+the social divide	le fossé social, la fracture sociale
+a discrepancy	une disparité
+a chasm	un gouffre, un abîme
+balance / imbalance	l'équilibre/ le déséquilibre
+balanced / unbalanced	équilibré/ déséquilibré
+to redress the balance	rétablir l'équilibre
+to be torn	être déchiré
+ethnic strife	les rivalités ethniques
+social mobility	la mobilité sociale
+social advancement	la promotion sociale
+career advancement / professional advancement	l'ascension professionnel (V1/V2)
+the social ladder	l'ascenseur social
+to move up the social ladder/to be upwardly mobile	monter dans l'échelle sociale (V1/V2)
+upward social mobility	l'ascension sociale
+a self-made man	un self-made man
+a rags-to-riches story	l'histoire de quelqu'un qui est passé de la misère à la richesse
+to start from the scratch	partir de rien
+to strike gold / to strike it rich	faire fortune (V1/V2)
+equality of opportunity	l'égalité des chances
+egalitarianism	l'égalitarisme
+egalitarian	égalitaire
+social standing	le niveau social
+social status	le statut social
+fall in status / social descent	le déclassement (V1/V2)
+to have gotten scrambled	avoir été boulversée
+the landed aristocracy	l'aristocratie terrienne
+a decline in living standards	une baisse du niveau de vie
+to struggle to get by / to struggle by	peiner à s'en sortir (V1/V2)
+to have difficulty paying the bills	avoir du mal à payer les factures
+to make ends meet	joindre les deux bouts
+to live frome hand to mouth	vivre au jour le jour
+to scrape by	vivoter
+to survive	survivre
+homeless	sans-abri
+homelessness is on the rise	il y a de plus en plus de sans-abri
+a tramp / a bum	un clodo
+a bag lady	une clocharde
+a soup kitchen / a bread line	une soupe populaire (V1/V2)
+the underclass	le quart-monde
+a slum	un taudis
+mainstream society	société normale
+to tighten your belt	se serrer la ceinture
+to be on a shoestring budget	vivre avec très peu d'argent
+to go from rags to riches	passer de la misère à la richesse
+a fat cat	un gros richard
