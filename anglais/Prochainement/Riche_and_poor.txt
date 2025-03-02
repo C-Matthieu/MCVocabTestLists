@@ -39,9 +39,9 @@ a taxpayer	un contribuable
 earnings	les gains
 shell companies	les sociétés écrans
 poverty	la pauvreté
-poor people / the poor	les pauvres
+poor people / the poor	les pauvres (V1/V2)
 the working poor	les travailleurs pauvres
-poor / impoverished	pauvre
+poor / impoverished	pauvre (V1/V2)
 the needy	les nécessiteux, les indigents
 extreme poverty / dire poverty	la misère (V1/V2)
 destitution	la misère noire, le dénuement
