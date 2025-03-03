@@ -28,7 +28,7 @@ a zillionaire / a multimillionaire	un multimillionnaire (V1/V2)
 an oil magnate	un magnat du pétrole
 a press baron	un baron de la presse
 a media mogul	un magnat des médias
-an oil tycon / a software tycon	un roi du pétrole/ des logiciels
+an oil tycoon / a software tycoon	un roi du pétrole/ des logiciels
 income	le revenu
 income tax	l'impôt sur le revenu
 a tax haven	un paradis fiscal
