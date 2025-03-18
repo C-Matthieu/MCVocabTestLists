@@ -1,0 +1,10 @@
+medicina	médecine
+enfermedad	maladie
+tratamiento	traitement
+vacuna	vaccin
+síntomas	symptômes
+prevención	prévention
+bienestar	bien-être
+estrés	stress
+nutrición	nutrition
+deporte	sport

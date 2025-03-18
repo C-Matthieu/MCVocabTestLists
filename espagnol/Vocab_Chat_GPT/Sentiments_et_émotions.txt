@@ -1,0 +1,10 @@
+alegría	joie
+tristeza	tristesse
+miedo	peur
+sorpresa	surprise
+vergüenza	honte
+enfado	colère
+confianza	confiance
+esperanza	espoir
+decepción	déception
+orgullo	fierté

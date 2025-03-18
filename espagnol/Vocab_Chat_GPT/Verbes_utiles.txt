@@ -1,0 +1,15 @@
+ser	être
+estar	être (état)
+tener	avoir
+hacer	faire
+poder	pouvoir
+querer	vouloir
+saber	savoir
+decir	dire
+venir	venir
+salir	sortir
+poner	mettre
+deber	devoir
+hablar	parler
+escuchar	écouter
+mirar	regarder

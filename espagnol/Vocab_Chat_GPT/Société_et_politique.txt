@@ -1,0 +1,15 @@
+gobierno	gouvernement
+ciudadano	citoyen
+derechos	droits
+ley	loi
+justicia	justice
+elecciones	élections
+votar	voter
+corrupción	corruption
+igualdad	égalité
+libertad	liberté
+manifestación	manifestation
+huelga	grève
+minoría	minorité
+democracia	démocratie
+dictadura	dictature

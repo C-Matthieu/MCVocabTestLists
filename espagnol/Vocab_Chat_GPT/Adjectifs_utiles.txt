@@ -1,0 +1,15 @@
+bueno	bon
+malo	mauvais
+grande	grand
+pequeño	petit
+nuevo	nouveau
+viejo	vieux
+caro	cher
+barato	bon marché
+fácil	facile
+difícil	difficile
+rápido	rapide
+lento	lent
+fuerte	fort
+débil	faible
+seguro	sûr

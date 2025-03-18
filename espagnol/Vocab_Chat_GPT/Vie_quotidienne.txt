@@ -1,0 +1,10 @@
+comida	nourriture
+bebida	boisson
+ropa	vêtements
+transporte	transport
+vivienda	logement
+calle	rue
+ciudad	ville
+pueblo	village
+vecino	voisin
+tienda	magasin

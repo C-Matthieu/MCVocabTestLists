@@ -1,0 +1,15 @@
+empleo	emploi
+desempleo	chômage
+salario	salaire
+empresa	entreprise
+inversión	investissement
+mercado	marché
+crecimiento	croissance
+recesión	récession
+impuestos	impôts
+inflación	inflation
+presupuesto	budget
+deuda	dette
+sindicato	syndicat
+acuerdo	accord
+crisis	crise

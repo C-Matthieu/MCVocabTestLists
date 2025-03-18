@@ -1,0 +1,10 @@
+montaña	montagne
+mar	mer
+río	rivière
+bosque	forêt
+isla	île
+desierto	désert
+fauna	faune
+flora	flore
+perro	chien
+gato	chat

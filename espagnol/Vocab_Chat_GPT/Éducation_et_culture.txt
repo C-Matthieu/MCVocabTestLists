@@ -1,0 +1,10 @@
+conocimiento	connaissance
+aprendizaje	apprentissage
+enseñanza	enseignement
+lectura	lecture
+escritura	écriture
+literatura	littérature
+examen	examen
+esfuerzo	effort
+nota	note
+beca	bourse

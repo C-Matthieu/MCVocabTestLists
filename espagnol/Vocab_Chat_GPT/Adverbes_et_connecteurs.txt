@@ -1,0 +1,20 @@
+ahora	maintenant
+antes	avant
+después	après
+luego	ensuite
+siempre	toujours
+nunca	jamais
+también	aussi
+tampoco	non plus
+por lo tanto	donc
+sin embargo	cependant
+además	en plus
+aunque	bien que
+porque	parce que
+mientras	tandis que
+según	selon
+en cambio	en revanche
+a pesar de	malgré
+por eso	c’est pourquoi
+por ejemplo	par exemple
+en conclusión	en conclusion
