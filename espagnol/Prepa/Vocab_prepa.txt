@@ -72,4 +72,8 @@ dar un paso adelante	franchir une nouvelle étape
 dar un paso atrás	faire un pas en arrière
 dar un paso en falso	faire un faux pas
 permitir + infinitivo	permettre de
-permitir / posibilitar	permettre (V1/V2)
+permitir / posibilitar	permettre (V1/V2
+negar	nier
+hacer ruido	faire du bruit/ faire parler
+sesgo	biais
+poner en jaque	mettre en échecs
